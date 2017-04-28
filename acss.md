@@ -1,6 +1,6 @@
-## [Atomic CSS](http://acss.io/)
+# [Atomic CSS](http://acss.io/)
 
-### Design
+## Design
 
 ![Atomic Design Schema](img/design-schema.png)
 
@@ -19,7 +19,7 @@
 5. Pages
     - The whole thing together, the most complex compound of all, the actual site with all it’s images and everything
 
-### Structure
+## Structure
 
 ```
 ├── sass
@@ -65,7 +65,7 @@
     └── style.sass
 ```
 
-### Module Bundler
+## Module Bundler
 
 ```
 ├── components
@@ -140,7 +140,7 @@
 
 ---
 
-### Praxis
+## Praxis
 
 ![Tooltip](img/tooltip.png)
 

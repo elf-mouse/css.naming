@@ -1,1 +1,1 @@
-## [Scalable and Modular Architecture for CSS](https://smacss.com/)
+# [Scalable and Modular Architecture for CSS](https://smacss.com/)

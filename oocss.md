@@ -1,6 +1,6 @@
-## [Object Oriented CSS](https://github.com/stubbornella/oocss/wiki)
+# [Object Oriented CSS](http://oocss.org/)
 
-### Keep the structure and skin separate
+## Keep the structure and skin separate
 
 Before applying OOCSS principles, you might have CSS that looks like this:
 
@@ -58,7 +58,7 @@ With a little bit of planning and forethought, we can abstract the common styles
 }
 ```
 
-### Separate container and content
+## Separate container and content
 
 To illustrate why this is important, take the following CSS:
 
@@ -111,7 +111,7 @@ Or we might end up with something worse:
 }
 ```
 
-### A Real-World Example
+## A Real-World Example
 
 So here’s something along the lines of what I had when I started styling my header:
 
