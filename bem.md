@@ -61,18 +61,12 @@ Use modifier class name as selector:
 
 ```css
 .block--hidden { }
-/* To alter elements based on a block-level modifier: */
-.block--mod .block__elem { }
-/* Element modifier: */
-.block__elem--mod { }
 ```
 
 To alter elements based on a block-level modifier:
 
 ```css
 .block--mod .block__elem { }
-/* Element modifier: */
-.block__elem--mod { }
 ```
 
 Element modifier:
